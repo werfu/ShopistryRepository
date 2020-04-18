@@ -1,0 +1,1 @@
+docker run --rm --init -it   --user $(id -u):$(id -g)  --volume "$HOME/.composer:/composer"   --volume $(pwd):/build  composer/satis build satis.json .

@@ -1,0 +1,8 @@
+{
+    "name": "Shopistry Composer Private Repository",
+    "homepage": "http://shopistry.com",
+    "repositories": [
+      { "type": "vcs", "url": "https://github.com/Shopistry/shopistry-magento-admin-theme" }
+    ],
+    "require-all": true
+  }
