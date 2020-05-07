@@ -5,5 +5,5 @@
             "sha1": "184adb7cccef820c65712d510a680f6f4afd44d6"
         }
     },
-    "metadata-url": "/p2/%package%.json"
+    "metadata-url": "/ShopistryRepository/p2/%package%.json"
 }

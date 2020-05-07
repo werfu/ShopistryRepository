@@ -1,6 +1,6 @@
 {
     "name": "Shopistry Composer Private Repository",
-    "homepage": "http://shopistry.com",
+    "homepage": "https://werfu.github.io/ShopistryRepository/",
     "repositories": [
       { "type": "vcs", "url": "https://github.com/werfu/Shopistry_ThemeAdminhtmlShopistry.git" },
       { "type": "vcs", "url": "https://github.com/werfu/Shopistry_Deployment.git" }
